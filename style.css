@@ -7,10 +7,10 @@
 }
 
 :root {
-    --black: rgb(8, 8, 8);
-    --dark-blue: rgb(0, 4, 13);
-    --white: rgb(226, 226, 226);
-    --really-black: rgb(0, 0, 0);
+    --black: hsl(212, 100%, 69%);
+    --dark-blue: hsl(32, 100%, 69%);;
+    --white: rgb(36, 36, 36);
+    --really-black: rgb(218, 225, 241);
 }
 
 html {
@@ -23,7 +23,7 @@ body {
 
 .navigation {
     width: 100%;
-    background-color: var(--black);
+    background-color: var(--really-black);
     padding: 1rem 3rem;
 }
 
