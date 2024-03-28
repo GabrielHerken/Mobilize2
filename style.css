@@ -78,7 +78,7 @@ body {
 
 .content__concept {
     padding: 1.5rem 0;
-    background-image: linear-gradient(var(--dark-blue) 60%, var(--black));
+    background-image: linear-gradient(var(--dark-blue) 90%, var(--black));
     /*background-color: rgb(0, 10, 16);*/
     color: var(--white);
     min-height: 20rem;
@@ -98,7 +98,7 @@ body {
 }
 
 .content__symptoms {
-    background-image: linear-gradient(var(--black) 60%, var(--dark-blue));
+    background-image: linear-gradient(var(--black) 90%, var(--dark-blue));
     color: var(--white);
     font-size: 1.5rem;
     padding: 1.5rem 4rem;
